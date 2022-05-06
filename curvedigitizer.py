@@ -42,7 +42,9 @@ def run():
         title = "Select image to digitize",
         filetypes = (
             ("jpeg files","*.jpg"),
-            ("png files","*.png"))
+            ("png files","*.png"),
+            ("tif files","*.tif"),
+            ("tiff files","*.tiff"))
         )
     if len(filein) == 0:
         # nothing selected, return
