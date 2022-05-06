@@ -1,4 +1,4 @@
-# curvedigitizer
+# curvedigitizer [ORIGINAL DESCRIPTION]
 **curvedigitizer** is a simple Python tool that can be used to digitize data from scientific plots.
 
 ## Installation
@@ -15,3 +15,8 @@ and follow the onscreen instructions. The tool does not support, yet, rotated or
 Copyright (c) 2020 Pantelis Liolios.
 
 This software is released under the MIT license. See _LICENSE_ for details.
+
+# [MODIFICATIONS]
+## New objectives:
+- To create a well log digitizer.
+    -- Read TIF/TIFF files
